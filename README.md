@@ -7,7 +7,7 @@ Google Lens OCR là một module JavaScript cho phép người dùng quét và p
 
 ## Hướng dẫn sử dụng
 
-Dưới đây là hướng dẫn cơ bản để sử dụng module Google Lens Scanner:
+Dưới đây là hướng dẫn cơ bản để sử dụng module Google Lens OCR:
 
 ### Import Module
 
